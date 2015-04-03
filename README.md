@@ -1,5 +1,7 @@
 # EmailInputTokenizerDirective
 AngularJS directive for valid email tokenizer
+
+
 1. Add Jquery File
 2. Add AngualrJS File
 3. Add AngaulrJS Route file [optional]
