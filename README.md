@@ -1,4 +1,4 @@
-# EmailInputTokenizerDirective
+# EmailInputTokenizerAngularJSDirective
 AngularJS directive for valid email tokenizer
 
 
