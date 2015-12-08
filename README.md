@@ -1,4 +1,4 @@
-# EmailInputTokenizerAngularJSDirective
+# Email Input Tokenizer AngularJS Directive
 AngularJS directive for valid email tokenizer
 
 While implementing Single Page Application through WebAPI and AngularJS, you come across number of times to use filters and directives in order to meet requirements specified by clients. The below code snippet tokenizes input and displays them in a separate block within a specific placeholder, however it checks the input is a valid email address first and then the input token is not repetitive within the same placeholder.
